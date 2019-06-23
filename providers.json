@@ -1,0 +1,10 @@
+{
+    "providers" : [
+        {"name":"Reddit","url":"https://www.reddit.com/search?q=","prefix":"/r"},
+        {"name":"Giphy","url":"https://giphy.com/search/","prefix":"/g"},
+        {"name":"Spotify","url":"https://open.spotify.com/search/results/","prefix":"/s"},
+        {"name":"Soundcloud","url":"https://soundcloud.com/search?q=","prefix":"/so"},
+        {"name":"Duck Duck Go","url":"https://duckduckgo.com/?q=","prefix":"/d"},
+        {"name":"iMDB","url":"https://www.imdb.com/find?q=","prefix":"/i"}
+    ]
+}
